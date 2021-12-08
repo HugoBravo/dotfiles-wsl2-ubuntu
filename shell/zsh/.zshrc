@@ -113,3 +113,6 @@ source $ZSH/oh-my-zsh.sh
 
 export DOTFILES_PATH=$HOME/.dotfiles
 source $DOTFILES_PATH/shell/init.sh
+
+alias launchchrome="/mnt/c/Program\ Files/Google/Chrome/Application/chrome.exe"
+export CHROME_BIN=launchchrome
